@@ -17,7 +17,7 @@ The project focuses on replicating the design and layout of Netflix's landing pa
 
 ## Screenshot 📸
 
-![Full Page Screenshot](screenshot.png)
+![Full Page Screenshot](screenshot.html.png)
 
 ## How to Run the Project 🚀
 
