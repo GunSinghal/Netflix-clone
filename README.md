@@ -17,11 +17,11 @@ The project focuses on replicating the design and layout of Netflix's landing pa
 
 ## Screenshot 📸
 
-![Full Page Screenshot](screenshot.html.png.png)
+![Full Page Screenshot](screenshot.png)
 
 ## How to Run the Project 🚀
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/netflix-clone.git
+   git clone https://github.com/GunSinghal/netflix-clone.git
    ```
